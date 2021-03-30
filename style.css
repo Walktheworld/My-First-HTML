@@ -12,10 +12,11 @@ body {
 }
 
 h1{
-    font-size: 40pt;
+    font-size: 50pt;
     background: url(http://www.eastpetemc.org/wp-content/uploads/2014/07/church-website-backgrounds-free-i16.jpg)center;
     font-family: cursive;
     border-style: groove;
+    margin: 30px;
     border-width: 20px;
     
 }
@@ -26,14 +27,14 @@ nav > a {
     margin: 20px;
     border-style: double;
     border-width: 5px;
-    background: url(http://www.eastpetemc.org/wp-content/uploads/2014/07/church-website-backgrounds-free-i16.jpg)center;
+    background: rgba(255, 228, 228, 0.473);
 }
 
 p{
     padding-left: 10px;
     padding-right: 10px;
+    margin:30px;
     border-style: double;
     background-color: rgba(255, 255, 255, 0.548);
 }
-
 
