@@ -13,12 +13,11 @@ body {
 
 h1{
     font-size: 50pt;
-    background: url(http://www.eastpetemc.org/wp-content/uploads/2014/07/church-website-backgrounds-free-i16.jpg)center;
+    background: url(https://images.pexels.com/photos/7132/wood-texture-trees.jpg?auto=compress&cs=tinysrgb&h=650&w=940)center;
     font-family: cursive;
     border-style: groove;
     margin: 30px;
-    border-width: 20px;
-    
+    border-width: 10px;
 }
 
 nav > a {
